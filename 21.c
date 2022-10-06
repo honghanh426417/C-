@@ -6,3 +6,4 @@ int main() {
 	printf("Area = %d", length * width);
 	return 0;
 }​
+//kjfngkjsndgksndksj
